@@ -34,11 +34,11 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
-      "update_action" : "https://smrturl.co/cfadb95",
+      "enable_update_closed" : true,
+      "update_action" : "",
       "update_msg" : "",
-      "update_state" : true,
-      "update_title" : "شارك في العرض لحصول على سيرفر (IPTV) مجاني خاص بقنوات بي ان سبورت"
+      "update_state" : false,
+      "update_title" : ""
     },
     "app" : {
       "mode_off_version" : "0"
