@@ -34,10 +34,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : true,
-      "update_action" : "",
+      "enable_update_closed" : false,
+      "update_action" : "https://www.tvyacine.live/",
       "update_msg" : "",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "مجاني خاص بقنوات بي ان سبورت IPTV شارك في العرض لحصول على سيرفر"
     },
     "app" : {
