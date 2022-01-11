@@ -35,7 +35,7 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "https://smrturl.co/cfadb95",
+      "update_action" : "",
       "update_msg" : "",
       "update_state" : false,
       "update_title" : "مجاني خاص بقنوات بي ان سبورت IPTV شارك في العرض لحصول على سيرفر"
